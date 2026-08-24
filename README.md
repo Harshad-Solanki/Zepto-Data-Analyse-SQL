@@ -34,3 +34,4 @@ SQL-based analysis of Zepto e-commerce data to identify insights related to **pr
 
 **Harshad Solanki**
 Aspiring Data Engineer | SQL | Python | Excel | Pyspark
+[LinkedIn](https://www.linkedin.com/in/harshadsolanki9/)
